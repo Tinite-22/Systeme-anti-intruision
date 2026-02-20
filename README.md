@@ -10,6 +10,7 @@ Le programme déclenche une série de bips successifs via le buzzer.
 Le système se réinitialise automatiquement après quelques secondes de calme.
 
 Installation et Utilisation
+
 Montage : Réalisez le circuit hors tension en suivant les instructions dans le document word "Realiser un système anti intrusion.
 
 Code : Télécharger le fichier Anti_mouvement_system.ino et ouvrez le avec l'IDE Arduino.
