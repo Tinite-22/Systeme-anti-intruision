@@ -23,3 +23,9 @@ Liste des composants:
 |                 | GND              | GND            | Masse commune                          |
 | **Buzzer**      | +                | D4             | Signal de commande du buzzer           |
 |                 | –                | GND            | Masse commune                          |
+
+NB:
+-En télechargant le fichier word: Réaliser un system anti intrusion, vous retrouverez les connexions à réaliser ainsi que le Rôle
+de chaque composants
+-Après avoir réaliser toutes les connexions, allez dans le logiciel Arduino, créez un nouveau fichier code. Copiez le code 
+« Anti_mouvement_system » et collez-le à l’intérieure de votre fichier code puis téleversez-le. 
