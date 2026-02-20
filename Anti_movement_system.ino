@@ -1,6 +1,6 @@
 // --- Déclaration des broches ---
-int pirPin = 12;         // Broche du capteur PIR (signal OUT)
-int BUZZER_PIN = 4;      // Broche où le buzzer est connecté
+int pirPin = 9;         // Broche du capteur PIR (signal OUT)
+int BUZZER_PIN = 12;      // Broche où le buzzer est connecté
 int val = 0;             // Variable pour stocker l’état du capteur PIR
 
 // --- Configuration initiale ---
